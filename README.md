@@ -8,7 +8,7 @@ I'm trying to further my hardware skills, combining my compsci and engineering k
 
 My favorite tools are onshape, ibispaint x and milanote
 
-##Fun facts:
+## Fun facts:
 
  - I own 2 dogs, a cat and a bunny
  - My hobbies include: art, cooking and watching anime
