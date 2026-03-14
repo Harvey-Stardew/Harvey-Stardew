@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+#I'm Sleepy, An engineering and computer science student based in the UK 
+
+#I'm currently working on a series of hardware projects mainly using onshape
+
+#I'm 
+
 <!--
 **Harvey-Stardew/Harvey-Stardew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
